@@ -10,3 +10,5 @@ I am a passionate table tennis player, having represented IIT Delhi at the Inter
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/vaibhav-kale-iitd) and explore some of my projects on Github.  
 
 Let's connect and collaborate! 🚀  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbunny&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
