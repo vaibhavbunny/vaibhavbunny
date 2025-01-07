@@ -7,6 +7,5 @@ Some of the courses I am pursuing during my undergraduate studies include Data S
 I am a passionate table tennis player, having represented IIT Delhi at the Inter IIT Sports Meet. When I'm not coding, I enjoy exploring new places with friends and embracing new experiences.
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/vaibhav-kale-iitd) and explore some of my projects on Github.  
-
 Let's connect and collaborate! 🚀  
 
