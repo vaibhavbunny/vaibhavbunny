@@ -1,4 +1,4 @@
-Hello there 
+Hello there! 👋🏻 <br/>
 I am Vaibhav Kale, a final-year student at Indian Institute of Technology, Delhi (IITD), majoring in Biochemical and Biotechnology Engineering with a Minor in Computer Science. I am deeply passionate about technology, programming, and problem-solving, and I thrive on applying my technical knowledge to solve real-world challenges.
 
 Some of the courses I have pursuing during my undergraduate studies include Data Structures and Algorithms, Artificial Intelligence, Machine Learning, Operating Systems, Database Management Systems, Design and Analysis of Algorithms, Blockchain Technology, and Software Engineering. These courses have laid a strong foundation for my interests in software development, blockchain, and data analytics.
