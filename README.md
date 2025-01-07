@@ -1,5 +1,11 @@
-# 💫 About Me:
-Hello there! 👋🏻 <br>I'm **Vaibhav Kale**, a Final-Year Student at **Indian Institute of Technology, Delhi (IITD)**, majoring in **Biochemical and Biotechnology Engineering** with a Minor in **Computer Science**. My academic and professional journey has been fueled by a passion for technology, programming, and problem-solving.  <br><br>Some of the courses I am pursuing during my undergraduate studies include **Data Structures and Algorithms, Artificial Intelligence, Machine Learning, Database Management Systems, Design and Analysis of Algorithms, Blockchain Technology**, and **Software Engineering**. These have laid a strong foundation for my interests in **software development, blockchain, and data analytics**, which I thoroughly enjoy applying to real-world challenges.  <br><br>When I'm not immersed in coding or exploring the latest in technology, I indulge in my passion for **finance and business analysis**, constantly broadening my horizons in these domains. Outside of academics, I love **playing table tennis**, representing IIT Delhi in the **Inter IIT Sports Meet**, and exploring new places with friends.  <br><br>I'm always excited to connect with like-minded individuals and discuss ideas that lie at the intersection of **technology, business, and innovation**. Let's connect and share insights!  
+Hello there 
+I am Vaibhav Kale, a final-year student at Indian Institute of Technology, Delhi (IITD), majoring in Biochemical and Biotechnology Engineering with a Minor in Computer Science. I am deeply passionate about technology, programming, and problem-solving, and I thrive on applying my technical knowledge to solve real-world challenges.
+
+Some of the courses I have pursuing during my undergraduate studies include Data Structures and Algorithms, Artificial Intelligence, Machine Learning, Operating Systems, Database Management Systems, Design and Analysis of Algorithms, Blockchain Technology, and Software Engineering. These courses have laid a strong foundation for my interests in software development, blockchain, and data analytics.
+
+Outside academics, I am a passionate table tennis player, representing IIT Delhi in the Inter IIT Sports Meet and other prestigious tournaments. When I’m not coding or delving into tech trends, you can find me honing my skills in table tennis, exploring new destinations, or brainstorming innovative solutions with peers.
+
+ 
 
 
 ## 🌐 Socials:
